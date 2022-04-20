@@ -19,3 +19,5 @@ class Alumno {
            return (nota1 + nota2) / 2.0;
     }
  }
+
+
